@@ -5,8 +5,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 public class StudentController {
-    //TODO: Add the spring annotations
-    //TODO: Provide data to the constructor
+    //TODO: Add RestController and GetMapping annotations
+    //TODO: Add ability to provide request parameters into the constructor
 
     /**
      * Returns a student based on the parameters provided
